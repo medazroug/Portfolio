@@ -3,7 +3,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   output: "export",
   basePath:
-    process.env.GITHUB_ACTIONS === "true" ? "/azrougMohamedAbdelAli" : undefined,
+    process.env.GITHUB_ACTIONS === "true" ? "/Portfolio" : undefined,
 };
 
 export default nextConfig;

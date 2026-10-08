@@ -26,7 +26,7 @@ The repository is configured to export a static site for GitHub Pages. Push to
 the `main` branch to build and deploy automatically. The generated site will be
 available at:
 
-<https://medazroug.github.io/azrougMohamedAbdelAli/>
+<https://medazroug.github.io/Portfolio/>
 
 In the repository settings, set **Pages → Build and deployment → Source** to
 **GitHub Actions**. The GitHub Actions workflow builds the site into `out/` and
